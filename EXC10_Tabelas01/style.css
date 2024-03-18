@@ -1,0 +1,15 @@
+table, tr, th, td {
+  border-collapse: collapse;
+  font-family: Arial;
+}
+
+th, td{
+  border: 1px solid black;
+  text-align: left;
+  width: 120px;
+  padding: 2px;
+}
+
+th {
+  text-align: center;
+}
